@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Kevin Stone</h1>
 <h3 align="center">Sou estudante de Ciência da Computação (em formação 8ºP)</h3>
-<h3 align="center">Atualmente trabalhando no Exército Brasileiro (7 anos)</h3>
+<h3 align="center">Atualmente trabalhando no Exército Brasileiro (8 anos)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KevinStoneTech&color=00FA9A&label=Total de visualizações" alt="Kevin Stone" /> </p>
 
 - 📫 Como me achar **kevin.stone.silva@gmail.com**
