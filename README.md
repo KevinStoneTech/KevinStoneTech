@@ -2,7 +2,7 @@
 <h3 align="center">Bacharel em Ciência da Computação</h3>
 <h3 align="center">Analista de Infraestrutura de TI</h3>
 ![](https://komarev.com/ghpvc/?username=KevinStoneTech&color=00FA9A&style=plastic)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KevinStoneTech&color=00FA9A&label=Total de visualizações" alt="Kevin Stonee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KevinStoneTech&color=00FA9A&label=Total de visualizações" alt="Kevin Stonee"/> </p>
 
 - 📫 Como me achar **kevin.stone.silva@gmail.com**
 
