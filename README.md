@@ -1,10 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Kevin Stone</h1>
 <h3 align="center">Bacharel em Ciência da Computação</h3>
 <h3 align="center">Analista de Infraestrutura de TI</h3>
-<p align="left">
-  https://github.com/KevinStoneTech
-    <img src="https://komarev.com/ghpvc/?username=KevinStoneTech&color=00FA9A&style=plastic&label=Visualiza%C3%A7%C3%B5es"
-         alt="Visualizações do perfil"
+<img src="https://komarev.com/ghpvc/?username=KevinStoneTech&color=00FA9A&style=plastic&label=Visualiza%C3%A7%C3%B5es" alt="Visualizações do perfil"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KevinStoneTech&color=00FA9A&label=Total de visualizações" alt="Kevin Stonee"/> </p>
 
